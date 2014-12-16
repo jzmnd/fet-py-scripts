@@ -3,8 +3,6 @@ Jeremy Smith
 
 List of scripts
 
-B1500csv_EFFmobcalc_VG-VT
+B1500csv_EFFmobcalc_VGVT
 B1500csv_paramextractor
-Keithleyxls_autoprobefilter
-
-
+Keithley_autoprobefilter
