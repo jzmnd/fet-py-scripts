@@ -24,9 +24,9 @@ files = os.listdir(data_path)   # All files in directory
 data_summary = []
 colheads = ['VG', 'ID1', 'ID2', 'IG1', 'IG2']
 skipinit = 3          # skip initial data points 
-rangefittop = 10.0    # % from max for fit range
+rangefittop = 20.0    # % from max for fit range
 rangefitbot = 20.0    # % from min for fit range
-mobilitycorrection = 1.08     # K_actual/K_file
+mobilitycorrection = 1.000     # K_actual/K_file
 summary_list_header = [["filename", "satmob_tmax", "vthsat_tmax", "satmob_rev_tmax", "vthsat_rev_tmax",
 						"linmob_tmax", "vthlin_tmax", "linmob_rev_tmax", "vthlin_rev_tmax",
 						"hysteresis_lin", "hysteresis_sat",

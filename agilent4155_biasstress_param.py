@@ -25,9 +25,9 @@ data_summary = []
 skipinit = 5
 
 chl = 80
-chw = 300
+chw = 350
 tox = 60
-kox = 23
+kox = 51
 ci = 8.85418782e-7*kox/tox
 plot = True
 doublesweep = True
